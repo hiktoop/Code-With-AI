@@ -1,4 +1,4 @@
-How I Use Claude Code
+# How I Use Claude Code
 
 Feb 10, 2026
 
